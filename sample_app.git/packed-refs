@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+d4a265f3f87e4d87670ce8bbd70668ff0ae12990 refs/heads/filling-in-layout
+887b2a1ba2c4427b08fd09dafddedccf92d0a7dd refs/heads/master
+c4a3c35c06354c3cb0ec67e18c5b9c34ca633d65 refs/heads/static-pages
+febdf34ca3f6d605c09c70c818cc98f91e147fa2 refs/heads/static-pages-exercises
